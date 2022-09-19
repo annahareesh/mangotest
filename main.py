@@ -15,4 +15,4 @@ cursor.execute('show tables')
 
 print(cursor.fetchall())
 
-
+print(mydb)
